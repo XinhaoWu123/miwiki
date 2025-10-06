@@ -16,3 +16,7 @@ Benvinguts a tots
     Jessica
     Ruben
     Cristian
+# vehicles de transport
+    Coche
+    Bicicleta
+    Autobús
