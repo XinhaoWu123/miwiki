@@ -1,22 +1,29 @@
-# La meva wiki personal
-Benvinguts a tots
-# Videojocs preferits 
-    mine
-    valorant
-    mario kart
-# Películes
-    Avatar
-    Star wars
-    Predator
-# Cantantes
-    Alvaro Dias
-    Mike towers
-    Rosalia
-# Profesor/a
-    Jessica
-    Ruben
-    Cristian
-# vehicles de transport
-    Coche
-    Bicicleta
-    Autobús
+# 🌟 La meva wiki personal
+Benvinguts a tots 👋
+![BENVINGUTS](https://www.pngfind.com/mpng/hwxJobm_bienvenidos-a-bmeansb-bienvenidos-png-transparent-png/)
+
+# 🎮 Videojocs preferits
+
+- Minecraft 🪓
+- Valorant 🔫
+- Mario Kart 🏎️
+
+# 🎬 Películes
+- Avatar 🌌
+- Star Wars 🌠
+- Predator 👽
+
+# 🎤 Cantantes
+- Alvaro Dias 🎵
+- Mike Towers 🎶
+- Rosalía 💃
+
+# 👩‍🏫 Profesors/es
+- Jessica 📝
+- Ruben 🖊️
+- Cristian 📚
+
+# 🚗 Vehicles de transport
+- Cotxe 🚗
+- Bicicleta 🚲
+- Autobús 🚌
