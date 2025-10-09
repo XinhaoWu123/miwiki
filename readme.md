@@ -1,6 +1,6 @@
 # 🌟 La meva wiki personal
 Benvinguts a tots 👋
-![Minecraft](https://images.unsplash.com/photo-1605902711622-cfb43c4431c5?auto=format&fit=crop&w=800&q=80)
+![Minecraft](images.jpg)
 
 # 🎮 Videojocs preferits
 
